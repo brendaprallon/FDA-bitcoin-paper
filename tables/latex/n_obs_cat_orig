@@ -1,0 +1,19 @@
+% latex table generated in R 3.6.3 by xtable 1.8-4 package
+% Mon Jun 13 14:38:59 2022
+\begin{table}[ht]
+\centering
+\begin{tabular}{lrr}
+  \hline
+Category & Addresses & Entities \\ 
+  \hline
+Darknet Marketplace & 106,274 &   8 \\ 
+  Exchanges & 259,102 &  50 \\ 
+  Gambling & 45,986 &  17 \\ 
+  Pools & 56,811 &   1 \\ 
+  Services/others & 287,160 &  22 \\ 
+  Total obs. & 755,333 &  98 \\ 
+   \hline
+\end{tabular}
+\caption{Original Number of Addresses and Entities, by Category} 
+\label{n_obs_cat_orig}
+\end{table}
